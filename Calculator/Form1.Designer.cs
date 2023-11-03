@@ -98,6 +98,7 @@
             // 
             // button2
             // 
+            this.button2.ForeColor = System.Drawing.Color.Red;
             this.button2.Location = new System.Drawing.Point(385, 206);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(72, 30);
